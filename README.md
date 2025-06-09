@@ -8,6 +8,7 @@
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bruno-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Bruno-Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
 </div>
 
 ##
