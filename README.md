@@ -13,6 +13,7 @@
 ##
 
 <div> 
+  <a href="https://omunizdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-00A8E8?style=for-the-badge&logo=about-dot-me&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/omunizdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-muniz-4a381a367/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:devbrunomuniz@gmail.com"><img src="https://img.shields.io/badge/-Email-6FCF97?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
