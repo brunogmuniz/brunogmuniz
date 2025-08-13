@@ -19,22 +19,8 @@
     <img src="https://img.shields.io/badge/-Portfólio-00A8E8?style=for-the-badge&logo=about-dot-me&logoColor=white">
   </a>
 
-  <!-- Botão customizado do Instagram -->
-  <a href="https://instagram.com/omunizdev" target="_blank" style="
-    display: inline-block;
-    padding: 10px 18px;
-    margin: 5px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 14px;
-    color: white;
-    text-decoration: none;
-    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-    border-radius: 5px;
-    font-weight: bold;
-    transition: transform 0.2s ease;
-  ">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="16" style="vertical-align: middle; filter: brightness(0) invert(1); margin-right: 6px;">
-    Instagram
+  <a href="https://instagram.com/omunizdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/bruno-muniz-4a381a367/" target="_blank">
