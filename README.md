@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Sistemas para Internet - UFSM (Federal University of Santa Maria)<br>🎮 Player</p>
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Sistemas para Internet - UFSM (Federal University of Santa Maria)<br>🎮 Player<br>🧑‍💻 https://omunizdev.netlify.app</p>
 
 ###
 
@@ -25,9 +25,8 @@
   <a href="https://gitlab.com/brunogmuniz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
   </a>
-  <a href="https://omunizdev.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+
 </div>
 
 ###
