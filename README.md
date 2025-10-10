@@ -5,7 +5,6 @@
 <p align="center">My name is Bruno Muniz  and I'm a Web Developer from Santa Maria - RS</p>
 
 ###
-
 <h2 align="center">About me</h2>
 
 ###
