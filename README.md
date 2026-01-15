@@ -1,4 +1,5 @@
-<img width="3780" height="1890" alt="Minimalistic Creative Agency Business Banner" src="https://github.com/user-attachments/assets/134d6a91-0c19-4366-b159-242a04e356c2" />
+
+<img width="1584" height="396" alt="Blue and White Simple Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/aaed987b-ef3d-46e8-8151-22360a757bfb" />
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
