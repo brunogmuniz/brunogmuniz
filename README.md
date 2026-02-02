@@ -1,4 +1,4 @@
-
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/f1b2d4a5-ee23-4dea-a26e-85d8c17e2d43" />
 <img width="1584" height="396" alt="Blue and White Simple Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/aaed987b-ef3d-46e8-8151-22360a757bfb" />
 
 
@@ -33,7 +33,7 @@
 
 
 
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Sistemas para Internet - UFSM (Federal University of Santa Maria)<br>🎮 Player<br>🧑‍💻 https://omunizdev.netlify.app</p>
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Sistemas para Internet - UFSM (Federal University of Santa Maria)<br>🎮 Player<br>🧑‍💻 https://omunizdev.vercel.app/</p>
 
 
 ###
