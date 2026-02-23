@@ -29,9 +29,6 @@
 
 
 
-###
-
-
 
 <p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Sistemas para Internet - UFSM (Federal University of Santa Maria)<br>🎮 Player<br>🧑‍💻 https://omunizdev.vercel.app/</p>
 
